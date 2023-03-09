@@ -1,5 +1,5 @@
 ## rtsp_stream_viewer
-This project is written in C++ and use OpenCV to read a rtsp stream and display it in a OpenCV window. 
+This project is written in C++ and uses OpenCV to read a rtsp stream and display it in a OpenCV window. 
 
 #### Prerequisites
 - install c++ compiler

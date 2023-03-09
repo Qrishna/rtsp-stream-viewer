@@ -20,7 +20,12 @@ make
 # Run
 ```shell
 # to run:
-./rtsp_stream_viewer
+./rtsp_stream <stream-url>
+
+# for example you can pass any stream-url from the command line like this:
+./rtsp_stream "rtsp://admin:admin@192.168.0.41/live"
+
+
 ```
 
 # Helper scripts
